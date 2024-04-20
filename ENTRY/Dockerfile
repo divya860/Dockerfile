@@ -1,2 +1,2 @@
 FROM almalinux:8
-ENTRYPOINT ["ping", "-c5", "facebook.com"]ss
+ENTRYPOINT ["ping", "-c5"]
